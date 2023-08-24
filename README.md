@@ -1,2 +1,2 @@
 # Open-Glyph
-An open source symbol language.
+An open-source symbol language.
